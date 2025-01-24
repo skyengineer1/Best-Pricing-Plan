@@ -17,10 +17,6 @@ Welcome to the **Best Pricing Plan** website! 🎉 This project allows users to 
 - HTML5
 - CSS3
 
-## 📸 Preview
-Here’s a look at what the website looks like:  
-![Preview Image](./assets/preview.png)
-
 ## 📝 How to Run
 1. Clone this repository:
    ```bash
